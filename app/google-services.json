@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040717413097",
+    "project_id": "concertshop-4d349",
+    "storage_bucket": "concertshop-4d349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040717413097:android:64ca441b71360505074e78",
+        "android_client_info": {
+          "package_name": "com.example.concert_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o8wNN7ACHSkbRi3lYJPWPq54cFt_OVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
